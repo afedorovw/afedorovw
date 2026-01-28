@@ -1,5 +1,8 @@
 ### Hi 👋
 
+> [!IMPORTANT]
+> Projects have been transferred to [GitFlic](https://gitflic.ru/user/afedorovw)
+
 #### :man_technologist: About Me :
 
 *Someday I will write this block.* <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
